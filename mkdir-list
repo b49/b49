@@ -1,0 +1,7 @@
+#!/bin/bash
+
+# mkdir-list
+for namez in $(cat <$1)
+do  
+	mkdir $namez
+done
