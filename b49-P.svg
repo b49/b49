@@ -9,9 +9,9 @@
    xmlns="http://www.w3.org/2000/svg"
    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
-   width="210mm"
-   height="297mm"
-   viewBox="0 0 210 297"
+   width="224.16908mm"
+   height="133.94mm"
+   viewBox="0 0 224.16908 133.94"
    version="1.1"
    id="svg2062"
    inkscape:version="0.92.3 (unknown)"
@@ -26,8 +26,8 @@
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
      inkscape:zoom="0.71583373"
-     inkscape:cx="-481.49331"
-     inkscape:cy="820.17689"
+     inkscape:cx="353.6908"
+     inkscape:cy="244.77082"
      inkscape:document-units="mm"
      inkscape:current-layer="layer1"
      showgrid="false"
@@ -44,14 +44,15 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title></dc:title>
+        <dc:title />
       </cc:Work>
     </rdf:RDF>
   </metadata>
   <g
      inkscape:label="Layer 1"
      inkscape:groupmode="layer"
-     id="layer1">
+     id="layer1"
+     transform="translate(288.80026,-13.034842)">
     <circle
        r="16.781734"
        cy="58.119049"
@@ -77,16 +78,16 @@
        id="text2613"
        y="57.988369"
        x="-254.82376"
-       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:9.8777771px;line-height:1.25;font-family:'Liberation Serif';-inkscape-font-specification:'Liberation Serif';letter-spacing:0px;word-spacing:0px;fill:#000b49;fill-opacity:1;stroke:none;stroke-width:0.26458332;"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:9.8777771px;line-height:1.25;font-family:'Liberation Serif';-inkscape-font-specification:'Liberation Serif';letter-spacing:0px;word-spacing:0px;fill:#000b49;fill-opacity:1;stroke:none;stroke-width:0.26458332"
        xml:space="preserve"><tspan
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Spectrashell;-inkscape-font-specification:Spectrashell;fill:#000b49;fill-opacity:1;stroke-width:0.26458332;"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Spectrashell;-inkscape-font-specification:Spectrashell;fill:#000b49;fill-opacity:1;stroke-width:0.26458332"
          y="57.988369"
          x="-254.82376"
          id="tspan2611"
          sodipodi:role="line">b49</tspan></text>
     <text
        xml:space="preserve"
-       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:9.8777771px;line-height:1.25;font-family:'Liberation Serif';-inkscape-font-specification:'Liberation Serif';letter-spacing:0px;word-spacing:0px;fill:#5a4e25;fill-opacity:1;stroke:none;stroke-width:0.26458332;"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:9.8777771px;line-height:1.25;font-family:'Liberation Serif';-inkscape-font-specification:'Liberation Serif';letter-spacing:0px;word-spacing:0px;fill:#5a4e25;fill-opacity:1;stroke:none;stroke-width:0.26458332"
        x="-241.49452"
        y="52.369179"
        id="text2617"><tspan
@@ -94,7 +95,7 @@
          id="tspan2615"
          x="-241.49452"
          y="52.369179"
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Spectrashell;-inkscape-font-specification:Spectrashell;fill:#5a4e25;fill-opacity:1;stroke-width:0.26458332;">b49</tspan></text>
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Spectrashell;-inkscape-font-specification:Spectrashell;fill:#5a4e25;fill-opacity:1;stroke-width:0.26458332">b49</tspan></text>
     <path
        style="opacity:1;fill:#5a4e25;fill-opacity:1;stroke:none;stroke-width:10;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;paint-order:markers fill stroke"
        id="path2619"
@@ -202,9 +203,9 @@
        id="text2668"
        y="52.630535"
        x="-140.12271"
-       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:9.8777771px;line-height:1.25;font-family:'Liberation Serif';-inkscape-font-specification:'Liberation Serif';letter-spacing:0px;word-spacing:0px;fill:#5a4e25;fill-opacity:1;stroke:none;stroke-width:0.26458332;"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:9.8777771px;line-height:1.25;font-family:'Liberation Serif';-inkscape-font-specification:'Liberation Serif';letter-spacing:0px;word-spacing:0px;fill:#5a4e25;fill-opacity:1;stroke:none;stroke-width:0.26458332"
        xml:space="preserve"><tspan
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Spectrashell;-inkscape-font-specification:Spectrashell;fill:#5a4e25;fill-opacity:1;stroke-width:0.26458332;"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Spectrashell;-inkscape-font-specification:Spectrashell;fill:#5a4e25;fill-opacity:1;stroke-width:0.26458332"
          y="52.630535"
          x="-140.12271"
          id="tspan2666"
@@ -299,7 +300,7 @@
        r="16.781734" />
     <text
        xml:space="preserve"
-       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:9.8777771px;line-height:1.25;font-family:'Liberation Serif';-inkscape-font-specification:'Liberation Serif';letter-spacing:0px;word-spacing:0px;fill:#000b49;fill-opacity:1;stroke:none;stroke-width:0.26458332;"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:9.8777771px;line-height:1.25;font-family:'Liberation Serif';-inkscape-font-specification:'Liberation Serif';letter-spacing:0px;word-spacing:0px;fill:#000b49;fill-opacity:1;stroke:none;stroke-width:0.26458332"
        x="-93.993073"
        y="51.323746"
        id="text2696"><tspan
@@ -307,7 +308,7 @@
          id="tspan2694"
          x="-93.993073"
          y="51.323746"
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Spectrashell;-inkscape-font-specification:Spectrashell;fill:#000b49;fill-opacity:1;stroke-width:0.26458332;">b49</tspan></text>
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Spectrashell;-inkscape-font-specification:Spectrashell;fill:#000b49;fill-opacity:1;stroke-width:0.26458332">b49</tspan></text>
     <path
        style="opacity:1;fill:#b49000;fill-opacity:1;stroke:none;stroke-width:10;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;paint-order:markers fill stroke"
        id="path2698"
@@ -347,9 +348,9 @@
        id="text2708"
        y="130.37863"
        x="-215.26306"
-       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:9.8777771px;line-height:1.25;font-family:'Liberation Serif';-inkscape-font-specification:'Liberation Serif';letter-spacing:0px;word-spacing:0px;fill:#000b49;fill-opacity:1;stroke:none;stroke-width:0.26458332;"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:9.8777771px;line-height:1.25;font-family:'Liberation Serif';-inkscape-font-specification:'Liberation Serif';letter-spacing:0px;word-spacing:0px;fill:#000b49;fill-opacity:1;stroke:none;stroke-width:0.26458332"
        xml:space="preserve"><tspan
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Spectrashell;-inkscape-font-specification:Spectrashell;fill:#000b49;fill-opacity:1;stroke-width:0.26458332;"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Spectrashell;-inkscape-font-specification:Spectrashell;fill:#000b49;fill-opacity:1;stroke-width:0.26458332"
          y="130.37863"
          x="-215.26306"
          id="tspan2706"
@@ -368,7 +369,7 @@
        style="opacity:1;fill:#000b49;fill-opacity:1;stroke:none;stroke-width:10;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;paint-order:markers fill stroke" />
     <text
        xml:space="preserve"
-       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:9.8777771px;line-height:1.25;font-family:'Liberation Serif';-inkscape-font-specification:'Liberation Serif';letter-spacing:0px;word-spacing:0px;fill:#5a4e25;fill-opacity:1;stroke:none;stroke-width:0.26458332;"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:9.8777771px;line-height:1.25;font-family:'Liberation Serif';-inkscape-font-specification:'Liberation Serif';letter-spacing:0px;word-spacing:0px;fill:#5a4e25;fill-opacity:1;stroke:none;stroke-width:0.26458332"
        x="-178.5423"
        y="126.06622"
        id="text2714"><tspan
@@ -376,7 +377,7 @@
          id="tspan2712"
          x="-178.5423"
          y="126.06622"
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Spectrashell;-inkscape-font-specification:Spectrashell;fill:#5a4e25;fill-opacity:1;stroke-width:0.26458332;">b49</tspan></text>
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Spectrashell;-inkscape-font-specification:Spectrashell;fill:#5a4e25;fill-opacity:1;stroke-width:0.26458332">b49</tspan></text>
     <path
        style="opacity:1;fill:#5a4e25;fill-opacity:1;stroke:none;stroke-width:10;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;paint-order:markers fill stroke"
        id="path2716"
@@ -393,9 +394,9 @@
        id="text2720"
        y="132.33881"
        x="-140.12271"
-       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:9.8777771px;line-height:1.25;font-family:'Liberation Serif';-inkscape-font-specification:'Liberation Serif';letter-spacing:0px;word-spacing:0px;fill:#b49000;fill-opacity:1;stroke:none;stroke-width:0.26458332;"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:9.8777771px;line-height:1.25;font-family:'Liberation Serif';-inkscape-font-specification:'Liberation Serif';letter-spacing:0px;word-spacing:0px;fill:#b49000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
        xml:space="preserve"><tspan
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Spectrashell;-inkscape-font-specification:Spectrashell;fill:#b49000;fill-opacity:1;stroke-width:0.26458332;"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Spectrashell;-inkscape-font-specification:Spectrashell;fill:#b49000;fill-opacity:1;stroke-width:0.26458332"
          y="132.33881"
          x="-140.12271"
          id="tspan2718"
