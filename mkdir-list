@@ -1,5 +1,9 @@
 #!/bin/bash
 
+# make dirs from list
+
+#### mkdir-list [file]
+
 # mkdir-list
 for namez in $(cat <$1)
 do  
