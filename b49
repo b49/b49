@@ -4,7 +4,7 @@
 echo -e "\t\t****b49****"
 
 # count down
-# show countdown till 9AM, if after 9 then 24h till next WEEKDAY 9
+# show countdown till 9AM, if after 9 then 24h till next WEEKDAY (Mon) 9
 
 time_now=$(date +%H%M)
 if [ $time_now -gt 900 ]
@@ -20,7 +20,8 @@ timeR=$(($dayM - $timeM + 900))
 
 #echo "$timeR"
 
-#mins to 9 so 
+
+# mins to 9 so 
 countH=$(($timeR / 60))
 countM=$(($timeR % 60))
 echo "$countH HOURS :: $countM  Mins togo"
